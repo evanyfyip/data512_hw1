@@ -1,5 +1,5 @@
 # Data 512 Homework 1 - Professionalism and Reproducibility
-Homework 1 for Human Centered Data Science class DATA 516
+Homework 1 for Human Centered Data Science class DATA 512
 
 ## Project Goal
 The goal of the project is to extract and analyze monthly page view data from wikipedia on a list of Academy Award movies. There main deliverables for this project are three JSON data files and three separate data visualizations.
